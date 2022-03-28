@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/CMakeFiles/PioasmBuild
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/CMakeFiles/PioasmBuild.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/CMakeFiles/PioasmBuild-complete.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pio/quadrature_encoder/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
