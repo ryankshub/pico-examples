@@ -1,3 +1,0 @@
-/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pioasm/CMakeFiles/rebuild_cache.dir
-/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pioasm/CMakeFiles/edit_cache.dir
-/home/rks/Documents/WinQ22/CyTri/pico/pico-examples/build/pioasm/CMakeFiles/pioasm.dir
